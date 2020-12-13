@@ -1,3 +1,5 @@
+http://147.175.121.202/~xchernov/noz3go2travel/
+
 # Zadanie cvičenia:
 Vytvorte váš vlastný zmysluplný formulár. Zameranie formuláru si môžete určiť sami, musia však byť splnené nasledovné požiadavky:
 vo formulári bude potrebné odosielať položky dátum narodenia a vek. Skontrolujte, či zadanému dátumu narodenia zodpovedá zadaný vek. V prípade, že tieto dva údaje nie sú navzájom prepojené, zabezpečte, aby formulár nebolo možné odoslať.

@@ -1,0 +1,55 @@
+*{
+	font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+header{
+	opacity: 0.6;
+}
+
+body{
+	background: url(space.jpg);
+	background-color: #cccccc;
+}
+
+nav {
+	background-color: #e3f2fd;
+}
+
+nav h1{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+span {
+	color: red;
+}
+
+.myHidden{
+	display: none;
+	margin-bottom: 40px;
+}
+
+.container {
+	margin-top: 20px;
+}
+
+.card-img{
+	margin: 10px;
+}
+
+.customDate {
+	display: block;
+}
+
+.inval{
+	border: 2px double red
+}
+
+#additionalInf1, #additionalInf2{
+	display: none;
+}
+
+#age, #birthday{
+	width: 100%;
+}
